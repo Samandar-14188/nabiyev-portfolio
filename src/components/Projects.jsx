@@ -8,7 +8,17 @@ export default function Projects() {
         github: 'https://github.com/Samandar-14188/nabiyev-chat-client',
         live: 'https://nabiyev-chat.vercel.app',
         color: '#7F77DD'
+      },
+      {
+        icon: '🪑',
+        name: 'RishtonSoft CRM',
+        desc: 'Real buyurtma asosida yozilgan mebel yetkazib berish va CRM tizimi — Farg\'ona, RishtonSoft kompaniyasi uchun',
+        tags: ['React', 'Next.js', 'Tailwind'],
+        github: '',
+        live: 'https://furniture-store-blush.vercel.app/sign-in',
+        color: '#1D9E75'
       }
+    
     ]
   
     return (
